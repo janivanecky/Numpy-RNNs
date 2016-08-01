@@ -1,9 +1,5 @@
 '''
-Simple IRNN model in python/numpy, written by Jan Ivanecky (@janivanecyk) 
-I used ideas from these papers:
-http://arxiv.org/pdf/1511.03771v3.pdf
-http://arxiv.org/pdf/1511.08400.pdf
-http://arxiv.org/pdf/1504.00941v2.pdf
+Simple Vanilla RNN model with ReLU in python/numpy, written by Jan Ivanecky (@janivanecyk) 
 
 MIT license
 '''
