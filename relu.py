@@ -82,7 +82,6 @@ def recurrent_matrix_init_basic(hidden_size):
 HIDDEN_LAYER_SIZE = 256
 DEPTH = 3
 DROPOUT_RATE = 0.1
-STABILIZING_TERM_WEIGHT = 0
 
 SEQ_SIZE = 100
 BATCH_SIZE = 10
